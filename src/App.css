@@ -19,8 +19,15 @@ body {
   background-color: #363636;
 }
 
-.BackgroundImage {
-  width: 40%;
+.Portfolio-profile-item {
+  width: 33%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Portfolio-profile-image {
+  width: 100%;
   min-width: 180px;
   max-width: 300px;
   height: auto;
@@ -32,23 +39,45 @@ body {
 .Portfolio-name {
   text-align: center;
   white-space: nowrap;
-  width: 100%;
   margin-bottom: 40px;
 }
 
-.PortfolioTitle {
+.Portfolio-title {
   color: #efefef;
   margin: 0px;
-  font-size: clamp(25px, 10vw, 40px);
+  font-size: clamp(20px, 5vw, 25px);
 }
 
-.PortfolioSubTitle {
+.Portfolio-subtitle {
   color: #efefef;
   margin: 0px;
-  font-size: clamp(20px, 6vw, 28px);
+  /* font-size: clamp(20px, 6vw, 28px); */
 }
 
-.PortfolioContactInfo {
+.Porfolio-contact-infos {
+  margin: 10px;
+}
+
+.Contact-item {
+  display: flex;
+  align-items: center;
+}
+
+.Contact-item-icon {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Contact-item-icon svg {
+  width: 70%;
+  height: 70%;
+}
+
+.Contact-item-text-content {
+  text-align: left;
 }
 
 @media only screen and (max-width: 600px) {
