@@ -1,24 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import profile_image from "./assets/img/profile_image.jpg";
 
 function App() {
+  const portfolioTitle = "< TUOMO HAUTALA />";
+  const portfolioSubTitle = "< PORTFOLIO />";
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="Portfolio-intro">
+        <img src={profile_image} alt="" className="BackgroundImage" />
+        <div className="Portfolio-name">
+          <p className="PortfolioTitle">{portfolioTitle}</p>
+          <p className="PortfolioSubTitle">{portfolioSubTitle}</p>
+        </div>
+      </div>
+      <div className="Porfolio-content"></div>
     </div>
   );
 }
