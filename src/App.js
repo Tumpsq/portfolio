@@ -4,10 +4,10 @@ import profile_image from "./assets/img/profile_image.jpg";
 
 import ALEntisointi_cover from "./assets/img/A.L.Entisointi_cover.JPG";
 import MatchPairCardGame_cover from "./assets/img/MatchPairCardGame_cover.JPG";
+import MovieBrowser_cover from "./assets/img/MovieBrowser_cover.JPG";
 
-import { LocationOn, LocalPhone, Email } from "@material-ui/icons";
+import { LocalPhone, Email } from "@material-ui/icons";
 
-import { ReactComponent as NetlifyIcon } from "./assets/icon/netlify.svg";
 import { ReactComponent as GithubIcon } from "./assets/icon/github.svg";
 
 import ContactItem from "./components/ContactItem";
@@ -49,15 +49,15 @@ function App() {
           gitHubUrl="https://github.com/Tumpsq/matchpairsgame"
         />
 
-        {/* <ContentItem
-          title="Teams app"
-          description="App for managing floorball games"
-          screenshot={ALEntisointi_cover}
-          netlifyUrl="https://teamsapp.netlify.com/"
-          gitHubUrl={"https://github.com/Tumpsq/teamsapp"}
+        <ContentItem
+          title="Moviebrowser"
+          description="App for browsing movies by popularity & genres"
+          screenshot={MovieBrowser_cover}
+          netlifyUrl="https://tumpsqsmoviebrowser.netlify.com/"
+          gitHubUrl="https://github.com/Tumpsq/moviebrowser"
         />
 
-        <ContentItem
+        {/* <ContentItem
           title="Web events"
           description="Websites for restoration firm"
           screenshot=""
