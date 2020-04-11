@@ -3,6 +3,7 @@ import "./App.css";
 import profile_image from "./assets/img/profile_image.jpg";
 
 import ALEntisointi_cover from "./assets/img/A.L.Entisointi_cover.JPG";
+import TuomoHautalaPhotography_cover from "./assets/img/tuomohautalaphotography_cover.jpg";
 import MatchPairCardGame_cover from "./assets/img/MatchPairCardGame_cover.JPG";
 import MovieBrowser_cover from "./assets/img/MovieBrowser_cover.JPG";
 
@@ -39,6 +40,14 @@ function App() {
           screenshot={ALEntisointi_cover}
           netlifyUrl="https://alentisointi.netlify.com/"
           gitHubUrl={null}
+        />
+
+        <ContentItem
+          title="Tuomo Hautala Photography"
+          description="Photo showcasing app for photographers"
+          screenshot={TuomoHautalaPhotography_cover}
+          netlifyUrl="https://tuomohautalaphotography.netlify.com/"
+          gitHubUrl="https://github.com/Tumpsq/photoportfolio"
         />
 
         <ContentItem
