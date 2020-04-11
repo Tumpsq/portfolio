@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.465c5a9e.chunk.css",
-    "main.js": "/portfolio/static/js/main.6cafbe86.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6cafbe86.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2d02f639.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2d02f639.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.af0b07c5.js.map",
-    "static/js/2.9d4ec495.chunk.js": "/portfolio/static/js/2.9d4ec495.chunk.js",
-    "static/js/2.9d4ec495.chunk.js.map": "/portfolio/static/js/2.9d4ec495.chunk.js.map",
+    "static/js/2.3c70a046.chunk.js": "/portfolio/static/js/2.3c70a046.chunk.js",
+    "static/js/2.3c70a046.chunk.js.map": "/portfolio/static/js/2.3c70a046.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.3c0f7407b2ce336c17457d16f86e2dd4.js": "/portfolio/precache-manifest.3c0f7407b2ce336c17457d16f86e2dd4.js",
+    "precache-manifest.68114c564eed0d4c2ddc978c46c19b36.js": "/portfolio/precache-manifest.68114c564eed0d4c2ddc978c46c19b36.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.465c5a9e.chunk.css.map": "/portfolio/static/css/main.465c5a9e.chunk.css.map",
-    "static/js/2.9d4ec495.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9d4ec495.chunk.js.LICENSE.txt",
+    "static/js/2.3c70a046.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3c70a046.chunk.js.LICENSE.txt",
     "static/media/A.L.Entisointi_cover.JPG": "/portfolio/static/media/A.L.Entisointi_cover.4b7612c2.JPG",
     "static/media/MatchPairCardGame_cover.JPG": "/portfolio/static/media/MatchPairCardGame_cover.f58abd68.JPG",
     "static/media/MovieBrowser_cover.JPG": "/portfolio/static/media/MovieBrowser_cover.942bc274.JPG",
     "static/media/github.0187055f.svg": "/portfolio/static/media/github.0187055f.svg",
     "static/media/netlify.daf93e1e.svg": "/portfolio/static/media/netlify.daf93e1e.svg",
-    "static/media/profile_image.jpg": "/portfolio/static/media/profile_image.80f1ff6e.jpg"
+    "static/media/profile_image.jpg": "/portfolio/static/media/profile_image.80f1ff6e.jpg",
+    "static/media/tuomohautalaphotography_cover.jpg": "/portfolio/static/media/tuomohautalaphotography_cover.4cb764b6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.af0b07c5.js",
-    "static/js/2.9d4ec495.chunk.js",
+    "static/js/2.3c70a046.chunk.js",
     "static/css/main.465c5a9e.chunk.css",
-    "static/js/main.6cafbe86.chunk.js"
+    "static/js/main.2d02f639.chunk.js"
   ]
 }

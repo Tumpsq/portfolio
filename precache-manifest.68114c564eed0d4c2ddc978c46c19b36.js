@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12f173424ec2191862475eec1e1ddf30",
+    "revision": "335005f8409eac0547e33649cc212b65",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "02ce09a290683462077e",
+    "revision": "20ae0bc68f1f31b8bc1b",
     "url": "/portfolio/static/css/main.465c5a9e.chunk.css"
   },
   {
-    "revision": "b7aaa7667abe110b6424",
-    "url": "/portfolio/static/js/2.9d4ec495.chunk.js"
+    "revision": "f03b44f225fc7b181782",
+    "url": "/portfolio/static/js/2.3c70a046.chunk.js"
   },
   {
     "revision": "ac9fac6c8e755a8efecd01981adb88e6",
-    "url": "/portfolio/static/js/2.9d4ec495.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.3c70a046.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02ce09a290683462077e",
-    "url": "/portfolio/static/js/main.6cafbe86.chunk.js"
+    "revision": "20ae0bc68f1f31b8bc1b",
+    "url": "/portfolio/static/js/main.2d02f639.chunk.js"
   },
   {
     "revision": "7107900f59be1fd95810",
@@ -46,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "80f1ff6eeb5047b917832e146b592538",
     "url": "/portfolio/static/media/profile_image.80f1ff6e.jpg"
+  },
+  {
+    "revision": "4cb764b6d1a9467bd4b3965bfe2af290",
+    "url": "/portfolio/static/media/tuomohautalaphotography_cover.4cb764b6.jpg"
   }
 ]);
