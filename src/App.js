@@ -6,6 +6,7 @@ import ALEntisointi_cover from "./assets/img/A.L.Entisointi_cover.JPG";
 import TuomoHautalaPhotography_cover from "./assets/img/tuomohautalaphotography_cover.jpg";
 import MatchPairCardGame_cover from "./assets/img/MatchPairCardGame_cover.JPG";
 import MovieBrowser_cover from "./assets/img/MovieBrowser_cover.JPG";
+import FoliTracking_cover from "./assets/img/FoliTracking_cover.png";
 
 import { LocalPhone, Email } from "@material-ui/icons";
 
@@ -64,6 +65,13 @@ function App() {
           screenshot={MovieBrowser_cover}
           netlifyUrl="https://tumpsqsmoviebrowser.netlify.com/"
           gitHubUrl="https://github.com/Tumpsq/moviebrowser"
+        />
+        <ContentItem
+          title="Foli Tracking"
+          description="Experimental website for tracking Föli bus traffic and bike rack status at Turku. API can be found at https://data.foli.fi/doc/index"
+          screenshot={FoliTracking_cover}
+          netlifyUrl="https://folitracking.netlify.com/"
+          gitHubUrl="https://github.com/Tumpsq/folitracking"
         />
 
         {/* <ContentItem
