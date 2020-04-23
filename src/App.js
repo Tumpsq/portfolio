@@ -7,6 +7,7 @@ import TuomoHautalaPhotography_cover from "./assets/img/tuomohautalaphotography_
 import MatchPairCardGame_cover from "./assets/img/MatchPairCardGame_cover.JPG";
 import MovieBrowser_cover from "./assets/img/MovieBrowser_cover.JPG";
 import FoliTracking_cover from "./assets/img/FoliTracking_cover.png";
+import Trackingfinland_cover from "./assets/img/Trackingfinland_cover.png";
 
 import { LocalPhone, Email } from "@material-ui/icons";
 
@@ -39,7 +40,7 @@ function App() {
           title="A.L Entisöinti"
           description="Website for restoration firm"
           screenshot={ALEntisointi_cover}
-          netlifyUrl="https://alentisointi.netlify.com/"
+          netlifyUrl="https://alentisointi.netlify.app/"
           gitHubUrl={null}
         />
 
@@ -47,7 +48,7 @@ function App() {
           title="Tuomo Hautala Photography"
           description="Photo showcasing app for photographers"
           screenshot={TuomoHautalaPhotography_cover}
-          netlifyUrl="https://tuomohautalaphotography.netlify.com/"
+          netlifyUrl="https://tuomohautalaphotography.netlify.app/"
           gitHubUrl="https://github.com/Tumpsq/photoportfolio"
         />
 
@@ -55,7 +56,7 @@ function App() {
           title="Match Pairs Game"
           description="Game to imporove your memory by finding card pairs"
           screenshot={MatchPairCardGame_cover}
-          netlifyUrl="https://matchpairsgame.netlify.com/"
+          netlifyUrl="https://matchpairsgame.netlify.app/"
           gitHubUrl="https://github.com/Tumpsq/matchpairsgame"
         />
 
@@ -63,14 +64,21 @@ function App() {
           title="Moviebrowser"
           description="App for browsing movies by popularity & genres"
           screenshot={MovieBrowser_cover}
-          netlifyUrl="https://tumpsqsmoviebrowser.netlify.com/"
+          netlifyUrl="https://tumpsqsmoviebrowser.netlify.app/"
           gitHubUrl="https://github.com/Tumpsq/moviebrowser"
+        />
+        <ContentItem
+          title="Tracking Finland"
+          description="App for different kind of things provided by open data apis"
+          screenshot={Trackingfinland_cover}
+          netlifyUrl="https://trackingfinland.netlify.app/"
+          gitHubUrl="https://github.com/Tumpsq/trackingfinland"
         />
         <ContentItem
           title="Foli Tracking"
           description="Experimental website for tracking Föli bus traffic and bike rack status at Turku. API can be found at https://data.foli.fi/doc/index"
           screenshot={FoliTracking_cover}
-          netlifyUrl="https://folitracking.netlify.com/"
+          netlifyUrl="https://folitracking.netlify.app/"
           gitHubUrl="https://github.com/Tumpsq/folitracking"
         />
 
