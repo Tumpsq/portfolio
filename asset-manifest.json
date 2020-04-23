@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.465c5a9e.chunk.css",
-    "main.js": "/portfolio/static/js/main.b28d7537.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b28d7537.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d8ecc0c9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d8ecc0c9.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.af0b07c5.js.map",
-    "static/js/2.0018d2d7.chunk.js": "/portfolio/static/js/2.0018d2d7.chunk.js",
-    "static/js/2.0018d2d7.chunk.js.map": "/portfolio/static/js/2.0018d2d7.chunk.js.map",
+    "static/js/2.24b01a09.chunk.js": "/portfolio/static/js/2.24b01a09.chunk.js",
+    "static/js/2.24b01a09.chunk.js.map": "/portfolio/static/js/2.24b01a09.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6abfaeb0db7ad6e427b16213b122b149.js": "/portfolio/precache-manifest.6abfaeb0db7ad6e427b16213b122b149.js",
+    "precache-manifest.583c760b8cba51993d4c7d5e43d4f864.js": "/portfolio/precache-manifest.583c760b8cba51993d4c7d5e43d4f864.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.465c5a9e.chunk.css.map": "/portfolio/static/css/main.465c5a9e.chunk.css.map",
-    "static/js/2.0018d2d7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0018d2d7.chunk.js.LICENSE.txt",
+    "static/js/2.24b01a09.chunk.js.LICENSE.txt": "/portfolio/static/js/2.24b01a09.chunk.js.LICENSE.txt",
     "static/media/A.L.Entisointi_cover.JPG": "/portfolio/static/media/A.L.Entisointi_cover.4b7612c2.JPG",
     "static/media/FoliTracking_cover.png": "/portfolio/static/media/FoliTracking_cover.131d4d42.png",
     "static/media/MatchPairCardGame_cover.JPG": "/portfolio/static/media/MatchPairCardGame_cover.f58abd68.JPG",
     "static/media/MovieBrowser_cover.JPG": "/portfolio/static/media/MovieBrowser_cover.942bc274.JPG",
+    "static/media/Trackingfinland_cover.png": "/portfolio/static/media/Trackingfinland_cover.69346ebc.png",
     "static/media/github.0187055f.svg": "/portfolio/static/media/github.0187055f.svg",
     "static/media/netlify.daf93e1e.svg": "/portfolio/static/media/netlify.daf93e1e.svg",
     "static/media/profile_image.jpg": "/portfolio/static/media/profile_image.80f1ff6e.jpg",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.af0b07c5.js",
-    "static/js/2.0018d2d7.chunk.js",
+    "static/js/2.24b01a09.chunk.js",
     "static/css/main.465c5a9e.chunk.css",
-    "static/js/main.b28d7537.chunk.js"
+    "static/js/main.d8ecc0c9.chunk.js"
   ]
 }
