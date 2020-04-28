@@ -19,7 +19,7 @@ import ContentItem from "./components/ContentItem";
 function App() {
   const portfolioTitle = "< TUOMO HAUTALA />";
   const portfolioSubTitle = "< PORTFOLIO />";
-  const gitHubAddress = "https://github.com/Tumpsq";
+  const gitHubAddress = "https://github.com/tuomo-hautala";
   const phoneNumber = "+358 44 301 1879";
   const emailAddress = "tuhautala@gmail.com";
 
@@ -49,7 +49,7 @@ function App() {
           description="Photo showcasing app for photographers"
           screenshot={TuomoHautalaPhotography_cover}
           netlifyUrl="https://tuomohautalaphotography.netlify.app/"
-          gitHubUrl="https://github.com/Tumpsq/photoportfolio"
+          gitHubUrl="https://github.com/tuomo-hautala/photoportfolio"
         />
 
         <ContentItem
@@ -57,7 +57,7 @@ function App() {
           description="Game to imporove your memory by finding card pairs"
           screenshot={MatchPairCardGame_cover}
           netlifyUrl="https://matchpairsgame.netlify.app/"
-          gitHubUrl="https://github.com/Tumpsq/matchpairsgame"
+          gitHubUrl="https://github.com/tuomo-hautala/matchpairsgame"
         />
 
         <ContentItem
@@ -65,21 +65,21 @@ function App() {
           description="App for browsing movies by popularity & genres"
           screenshot={MovieBrowser_cover}
           netlifyUrl="https://tumpsqsmoviebrowser.netlify.app/"
-          gitHubUrl="https://github.com/Tumpsq/moviebrowser"
+          gitHubUrl="https://github.com/tuomo-hautala/moviebrowser"
         />
         <ContentItem
           title="Tracking Finland"
           description="App for different kind of things provided by open data apis"
           screenshot={Trackingfinland_cover}
           netlifyUrl="https://trackingfinland.netlify.app/"
-          gitHubUrl="https://github.com/Tumpsq/trackingfinland"
+          gitHubUrl="https://github.com/tuomo-hautala/trackingfinland"
         />
         <ContentItem
           title="Foli Tracking"
           description="Experimental website for tracking Föli bus traffic and bike rack status at Turku. API can be found at https://data.foli.fi/doc/index"
           screenshot={FoliTracking_cover}
           netlifyUrl="https://folitracking.netlify.app/"
-          gitHubUrl="https://github.com/Tumpsq/folitracking"
+          gitHubUrl="https://github.com/tuomo-hautala/folitracking"
         />
 
         {/* <ContentItem
@@ -96,7 +96,7 @@ function App() {
       </div>
       <div className="Portfolio-contact-infos">
         <a
-          href="https://github.com/Tumpsq"
+          href="https://github.com/tuomo-hautala"
           target="_blank"
           rel="noopener noreferrer"
         >
